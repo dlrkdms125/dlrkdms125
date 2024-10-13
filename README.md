@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 <!--
 **dlrkdms125/dlrkdms125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
