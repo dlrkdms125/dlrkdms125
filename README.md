@@ -3,7 +3,6 @@
   <img src="https://render.gitanimals.org/farms/dlrkdms125"/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlrkdms125)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
