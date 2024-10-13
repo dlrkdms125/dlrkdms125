@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm 이가은!
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/dlrkdms125"/>
 </a>
