@@ -3,6 +3,8 @@
   <img src="https://render.gitanimals.org/farms/dlrkdms125"/>
 </a>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mangoade)](https://solved.ac/mangoade/)
+
 
 
 
