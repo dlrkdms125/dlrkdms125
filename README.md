@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.canva.com/design/DAGcD0AT8aY/MXmDn15mWiQ3oMZxQTgz2w/watch?utm_content=DAGcD0AT8aY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd1b9a54976" />
+  <img src="https://github.com/dlrkdms125/dlrkdms125/blob/main/assets/WeclometoGaeunsGithub-ezgif.com-video-to-gif-converter.gif" />
 </div>
 
 <a href="https://github.com/devxb/gitanimals">
