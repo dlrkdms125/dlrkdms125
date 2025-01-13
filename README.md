@@ -1,13 +1,16 @@
 <div align="center">
-  <img src="https://github.com/dlrkdms125/dlrkdms125/blob/main/assets/WeclometoGaeunsGithub-ezgif.com-crop%20(1).gif" />
+  <img src="https://github.com/dlrkdms125/dlrkdms125/blob/main/assets/WeclometoGaeunsGithub-ezgif.com-crop%20(1)%20(online-video-cutter.com).mp4" />
 </div>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/dlrkdms125"/>
-</a>
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/dlrkdms125"/>
+  </a>
+</div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mangoade100g)](https://solved.ac/mangoade100g/)
-
+<div align="center">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mangoade100g)](https://solved.ac/mangoade100g/)
+</div>
 
 
 
