@@ -6,12 +6,16 @@
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/dlrkdms125"/>
   </a>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mangoade100g)](https://solved.ac/mangoade100g/)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangoade100g&layout=compact)
-
 </div>
 
 
+<div align="center">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mangoade100g)](https://solved.ac/mangoade100g/)
+</div>
+
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangoade100g&layout=compact)
+</div>
 
 
 
