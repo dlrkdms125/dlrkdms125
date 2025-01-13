@@ -1,16 +1,17 @@
 <div align="center">
-  <img src="https://github.com/dlrkdms125/dlrkdms125/blob/main/assets/WeclometoGaeunsGithub-ezgif.com-crop%20(1)%20(online-video-cutter.com).mp4" />
+  <img src="https://github.com/dlrkdms125/dlrkdms125/commit/4b35a10a17dc6e06c532c1716d265e0bf401e4f5" />
 </div>
 
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/dlrkdms125"/>
   </a>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mangoade100g)](https://solved.ac/mangoade100g/)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangoade100g&layout=compact)
+
 </div>
 
-<div align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mangoade100g)](https://solved.ac/mangoade100g/)
-</div>
+
 
 
 
