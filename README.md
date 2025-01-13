@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/dlrkdms125/dlrkdms125/commit/4b35a10a17dc6e06c532c1716d265e0bf401e4f5" alt="Commit Image" />
+  <img src="https://github.com/dlrkdms125/dlrkdms125/blob/main/assets/%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B3%E1%86%AB%20welcome.gif" />
 </div>
 
 <div align="center">
