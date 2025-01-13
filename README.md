@@ -1,4 +1,7 @@
-## Hello World! I'm 가은!
+<div align="center">
+  <img src="https://www.canva.com/design/DAGcD0AT8aY/MXmDn15mWiQ3oMZxQTgz2w/watch?utm_content=DAGcD0AT8aY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd1b9a54976" />
+</div>
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/dlrkdms125"/>
 </a>
