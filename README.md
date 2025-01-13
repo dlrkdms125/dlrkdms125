@@ -1,20 +1,21 @@
 <div align="center">
-  <img src="https://github.com/dlrkdms125/dlrkdms125/commit/4b35a10a17dc6e06c532c1716d265e0bf401e4f5" />
+  <img src="https://github.com/dlrkdms125/dlrkdms125/commit/4b35a10a17dc6e06c532c1716d265e0bf401e4f5" alt="Commit Image" />
 </div>
 
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/dlrkdms125"/>
+    <img src="https://render.gitanimals.org/farms/dlrkdms125" alt="GitAnimals Farm" />
   </a>
 </div>
 
-
 <div align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mangoade100g)](https://solved.ac/mangoade100g/)
+  <a href="https://solved.ac/mangoade100g/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mangoade100g" alt="Solved.ac Profile Badge" />
+  </a>
 </div>
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangoade100g&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangoade100g&layout=compact" alt="Top Languages" />
 </div>
 
 
