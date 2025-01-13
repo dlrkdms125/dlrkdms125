@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/dlrkdms125/dlrkdms125/blob/main/assets/WeclometoGaeunsGithub-ezgif.com-video-to-gif-converter.gif" />
+  <img src="https://github.com/dlrkdms125/dlrkdms125/blob/main/assets/WeclometoGaeunsGithub-ezgif.com-crop%20(1).gif" />
 </div>
 
 <a href="https://github.com/devxb/gitanimals">
