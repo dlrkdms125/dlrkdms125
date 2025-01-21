@@ -33,7 +33,7 @@ I strive every day to contribute, even just a little, to the well-being of every
 ## 🔧 프로젝트
 
 | Period         | Name                                           | Description                            | stack    |
-| -------- | --------------------------------------- |----------------------------------------| -----|
+| ------ | --------------------------------------- |------------------------------------------------| -----|
 | 2024.05~2024.11 |  [👩🏻‍💻개발자 지식 공유 플랫폼](https://github.com/beyond-sw-camp/be06-fin-SENAGAE-Enadu)        | 위키, 에러 아카이브, QNA 게시판이 한 곳에 <br> 에나두 서비스(이 에러 나두!) | SPRINGBOOT, AWS, JENKINS, K8S, DOCKER, VUE.JS, MARIADB     |
 | 2024.03~2024.11 |  [🌿심전도, 호흡데이터 분석 플랫폼](https://github.com/dlrkdms125/health-project)       | 나는 또래에 비해 건강한 편인가? <br> 또래와 비교, 분석하는 서비스 |  SPRINGBOOT, AWS, VUE.JS, MARIADB, ML   |
 | 2024.01.12~2025.01.13 |  [🐥거리를 기반으로 스터디 장소 추천 시스템](https://github.com/chickHackathon/Backend) | 스터디원이 늘어나면 어디에서 만나야 할까? <br> 중간 지점 알려주는 서비스 |  SPRINGBOOT, AWS, REACT , MARIADB, TYPESCRIPT, NGINX, FIGMA   |
