@@ -39,7 +39,11 @@ I strive every day to contribute, even just a little, to the well-being of every
 | 2024.01.12~2025.01.13 |  [🐥거리를 기반으로 스터디 장소 추천 시스템](https://github.com/chickHackathon/Backend) | 스터디원이 늘어나면 어디에서 만나야 할까? <br> 중간 지점 알려주는 서비스 |  SPRINGBOOT, AWS, REACT , MARIADB, TYPESCRIPT, NGINX, FIGMA   |
 
 
-
+## 🔧 활동
+한화시스템 부트캠프 6기 수료 <br>
+스케일메이커스 2기 활동 <br>
+삐약톤 해커톤 참여 <br>
+유튜브 운영 <br>
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
