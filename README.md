@@ -1,7 +1,9 @@
-Hello, I’m Lee Ga-eun. 🌿🍀 <br>
+<h1 align="center">📫 Hello, I’m Lee Ga-eun. 🌿🍀</h1>
 I’m a backend developer who cares not only about people’s health but also about the health of the Earth. <br>
-I strive every day to contribute, even just a little, to the well-being of everything. <br>
-<br>
+I strive every day to contribute, even just a little, to the well-being of everything.
+<p align="center" style="font-size: 20px;">
+</p>
+
 
 
 <a href="https://github.com/devxb/gitanimals">
@@ -45,16 +47,16 @@ I strive every day to contribute, even just a little, to the well-being of every
 삐약톤 해커톤 참여 <br>
 유튜브 운영 <br>
 
-<h3 align="center">📫 Contact </h3>
-<div align="center">
-  <a href="https://velog.io/@mangoade100g/posts">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:somethingisnothing125@gmail.com">
-    <img
-      src="https://img.shields.io/badge/somethingisnothing125@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
+## 📫 Contact
+<a href="https://velog.io/@mangoade100g/posts">
+  <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
+</a>
+<a href="mailto:somethingisnothing125@gmail.com">
+  <img src="https://img.shields.io/badge/somethingisnothing125@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@%EC%9D%B4%EA%B0%80%EC%9D%80-k6g">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
