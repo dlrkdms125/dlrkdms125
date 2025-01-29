@@ -45,6 +45,17 @@ I strive every day to contribute, even just a little, to the well-being of every
 삐약톤 해커톤 참여 <br>
 유튜브 운영 <br>
 
+<h3 align="center">📫 Contact </h3>
+<div align="center">
+  <a href="https://velog.io/@mangoade100g/posts">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:somethingisnothing125@gmail.com">
+    <img
+      src="https://img.shields.io/badge/somethingisnothing125@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
+
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://solved.ac/mangoade100g/">
