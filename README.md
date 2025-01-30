@@ -42,10 +42,15 @@ I strive every day to contribute, even just a little, to the well-being of every
 
 
 ## 🔧 활동
-한화시스템 부트캠프 6기 수료 <br>
-스케일메이커스 2기 활동 <br>
-삐약톤 해커톤 참여 <br>
-유튜브 운영 <br>
+### [한화시스템 부트캠프 6기](https://blog.naver.com/swcamp-hanwha/223684422203)
+
+### [스케일메이커스 2기 활동](https://slashpage.com/scalemakers/d367nxm34vkwv2j98pv1)
+
+### [삐약톤 해커톤 참여](https://velog.io/@mangoade100g/%ED%95%B4%EC%BB%A4%ED%86%A4%EC%82%90%EC%95%BD%ED%86%A4-%EC%B0%B8%EC%97%AC-%ED%9A%8C%EA%B3%A0)
+
+### [유튜브 운영](https://www.youtube.com/@%EC%9D%B4%EA%B0%80%EC%9D%80-k6g)
+
+
 
 ## 📫 Contact
 <a href="https://velog.io/@mangoade100g/posts">
