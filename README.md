@@ -11,26 +11,7 @@ I strive every day to contribute, even just a little, to the well-being of every
 </a>
 <br>
 
-## 🔧 기술 스택
 
-### 💻 **백엔드:**  
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" style="border-radius: 5px;">
-    
- 
-### 💻 **클라우드:** 
- <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-
-  
-### 💾 **데이터베이스:**  
- <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
-  
-### 📽️ **웹 서버:**  
- <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" style="border-radius: 5px;"/>  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-
-### 🕹️ **컨테이너 오케스트레이션:**  
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <br>
 
 ## 🔧 프로젝트
 
@@ -38,6 +19,7 @@ I strive every day to contribute, even just a little, to the well-being of every
 | ------ | --------------------------------------- |------------------------------------------------| -----|
 | 2024.05~2024.11 |  [👩🏻‍💻개발자 지식 공유 플랫폼](https://github.com/beyond-sw-camp/be06-fin-SENAGAE-Enadu)        | 위키, 에러 아카이브, QNA 게시판이 한 곳에 <br> 에나두 서비스(이 에러 나두!) | SPRINGBOOT, AWS, JENKINS, K8S, DOCKER, VUE.JS, MARIADB     |
 | 2024.03~2024.11 |  [🌿심전도, 호흡데이터 분석 플랫폼](https://github.com/dlrkdms125/health-project)       | 나는 또래에 비해 건강한 편인가? <br> 또래와 비교, 분석하는 서비스 |  SPRINGBOOT, AWS, VUE.JS, MARIADB, ML   |
+| 2024.12~2024.2 |  [🕰️ 채팅 서비스](https://github.com/orgs/ChatFlowProject/repositories)       |  |  SPRINGBOOT, AWS, Kubernetes |
 | 2024.01.12~2025.01.13 |  [🐥거리를 기반으로 스터디 장소 추천 시스템](https://github.com/chickHackathon/Backend) | 스터디원이 늘어나면 어디에서 만나야 할까? <br> 중간 지점 알려주는 서비스 |  SPRINGBOOT, AWS, REACT , MARIADB, TYPESCRIPT, NGINX, FIGMA   |
 
 
