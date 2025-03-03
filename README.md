@@ -30,7 +30,7 @@ I strive every day to contribute, even just a little, to the well-being of every
 
 ### [삐약톤 해커톤 참여](https://velog.io/@mangoade100g/%ED%95%B4%EC%BB%A4%ED%86%A4%EC%82%90%EC%95%BD%ED%86%A4-%EC%B0%B8%EC%97%AC-%ED%9A%8C%EA%B3%A0)
 
-### [유튜브 운영](https://www.youtube.com/@%EC%9D%B4%EA%B0%80%EC%9D%80-k6g)
+
 
 
 
