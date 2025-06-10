@@ -50,9 +50,6 @@ I strive every day to contribute, even just a little, to the well-being of every
   <a href="https://solved.ac/mangoade100g/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mangoade100g" alt="Solved.ac Profile Badge" />
   </a>
-  <a href="https://github.com/dlrkdms125/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dlrkdms125" alt="Anurag's GitHub stats" />
-  </a>
 </div>
 
 
