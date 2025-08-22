@@ -4,10 +4,6 @@ I strive every day to contribute, even just a little, to the well-being of every
 <p align="center" style="font-size: 20px;">
 </p>
 
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/dlrkdms125" alt="GitAnimals Farm" />
-</a>
 <br>
 
 <!-- 
